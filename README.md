@@ -1,2 +1,3 @@
-# juegofiguras
-juego atrapar figuras
+# ejemplojuego
+
+A new Flutter project.
