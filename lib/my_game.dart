@@ -1,8 +1,8 @@
 import 'dart:math';
-import 'package:ejemplojuego/container.dart';
+import 'container.dart';
 import 'package:flame/text.dart';
 import 'figurasusadas.dart';
-import 'package:ejemplojuego/tap_button.dart';
+import 'tap_button.dart';
 import 'package:flame/components.dart';
 import 'package:flame/events.dart';
 import 'package:flame/game.dart';
